@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">SparksTask2</string>
+    <string name="google">Google</string>
+    <string name="facebook">FaceBook</string>
+
+    <string name="facebook_app_id">4594040824058850</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">56789</string>
+
+    <string name="just_picture">Just Picture</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="sign_out">sign out</string>
+
+    <string name="OBJECT_NAME">UserData</string>
+    <string name="name_req">name</string>
+    <string name="url_req">url</string>
+    <string name="email_req">email</string>
+    <string name="data_req">data</string>
+    <string name="pic_req">picture</string>
+    <string name="public_req">public_profile</string>
+    <string name="error">signInResult:failed</string>
+
+</resources>
